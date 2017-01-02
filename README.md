@@ -1,5 +1,5 @@
 # cnn_techniques
-Using the CIFAR-10 dataset, I tested each of Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation to see its effect on the test accuracy and training time.
+Using the CIFAR-10 dataset, I explored each of six convolutional neural network techniques (Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation) to see its effect on the test accuracy and training time.
 
 Detailed intuition, algorithms, implementation, and results are documented in the report (https://github.com/kumikokashii/cnn_techniques/blob/master/theory_and_practice_of_cnn_techniques.pdf). Here's the summary table of the results:
 
