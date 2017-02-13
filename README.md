@@ -1,5 +1,5 @@
 # Convolutional Neural Network Techniques
-Comparison analysis of 11 convolutional neural networks usingTensorFlow on the CIFAR-10 dataset. I explored each of the six techniques (Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation) to see its effect on the test accuracy and training time.
+Comparison analysis of 11 convolutional neural networks usingTensorFlow on the CIFAR-10 dataset. I explored each of the five techniques (Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation) to see its effect on the test accuracy and training time.
 
 Theoretical and practical details are documented in the report (https://github.com/kumikokashii/cnn_techniques/blob/master/theory_and_practice_of_cnn_techniques.pdf).
 
