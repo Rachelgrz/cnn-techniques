@@ -1,8 +1,12 @@
-# cnn_techniques
-Using the CIFAR-10 dataset, I explored each of six convolutional neural network techniques (Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation) to see its effect on the test accuracy and training time.
+# Convolutional Neural Network Techniques
+Comparison analysis of 11 convolutional neural networks usingTensorFlow on the CIFAR-10 dataset. I explored each of the six techniques (Max Pooling, Local Response Normalization, Batch Normalization, Dropout, and Data Augmentation) to see its effect on the test accuracy and training time.
 
-Detailed intuition, algorithms, implementation, and results are documented in the report (https://github.com/kumikokashii/cnn_techniques/blob/master/theory_and_practice_of_cnn_techniques.pdf). Here's the summary table of the results:
+Detailed intuition, algorithms, implementation, and results are documented in the report (https://github.com/kumikokashii/cnn_techniques/blob/master/theory_and_practice_of_cnn_techniques.pdf).
 
+## Data
+I downloaded the data from https://www.cs.toronto.edu/~kriz/cifar.html.
+
+## Results
 Model | Model Description | Learning Rate | Test Accuracy (%) | Time Till Best (hr) | Steps Till Best | Average Time Per Step (sec)
 :---:| --- | ---:| ---:|---:| ---:|---:
 01 | Basic | 0.01 | 54.82 | 0.8 | 47,400 | 0.058
